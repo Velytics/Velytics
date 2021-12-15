@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Funatics</h1>
+<h3 align="center">A Software and Hardware Enthusiast.</h3>
 
-<!--
-**syhmFPS/syhmFPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=funatics&color=brightgreen"
+alt="funatics" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=funatics" alt="funatics" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I’m currently working on my program [Hydrus Utility✨](https://dsc.gg/hydrus)
+- 🌱 I’m currently learning **C#, Javascript and more.**
+- 👨‍💻 All of my projects are available at [https://github.com/funatics?tab=repositories](https://github.com/funatics?tab=repositories)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="funatics#0829" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="7c7UjYENza" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages & Technologies:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="CSharp" width="40" height="40"/>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=funatics&show_icons=true&locale=en" alt="funatics" /></p>
