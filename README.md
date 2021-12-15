@@ -8,7 +8,7 @@ alt="syhm" /> </p>
 
 - 💻 I’m currently working on my program [Hydrus Utility✨](https://dsc.gg/hydrus)
 - 🌱 I’m currently learning **C#, Javascript and more.**
-- 👨‍💻 All of my projects are available at [https://github.com/funatics?tab=repositories](https://github.com/syhmFPS?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/syhmFPS?tab=repositories](https://github.com/syhmFPS?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
