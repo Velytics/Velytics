@@ -1,14 +1,15 @@
-<h1 align="center">Hi 👋, I'm Vel</h1>
+<h1 align="center">Hi 👋, I'm Velytics</h1>
 <h3 align="center">A Software and Hardware Enthusiast.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syhmFPS&color=brightgreen"
-alt="syhm" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=velytics&label=Profile%20views&color=0e75b6&style=flat" alt="velytics" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Velytics" alt="Velytics" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=velytics" alt="velytics" /></a> </p> -->
 
-- 💻 I’m currently working on my program [Hydrus Utility✨](https://dsc.gg/hydrus)
-- 🌱 I’m currently learning **C#, Javascript and more.**
-- 👨‍💻 All of my projects are available at [https://github.com/Velytics?tab=repositories](https://github.com/Velytics?tab=repositories)
+- 🔭 I’m currently working on [Optimave](https://github.com/Atlas-OS/Atlas).
+
+- 🌱 I’m currently learning **C#**.
+
+- 👨‍💻 All of my projects are available [here](https://github.com/Velytics?tab=repositories).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
