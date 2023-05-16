@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Velytics</h1>
-<h3 align="center">A Software and Hardware Enthusiast.</h3>
+<h3 align="center">A Software/Firmware Enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=velytics&label=Profile%20views&color=0e75b6&style=flat" alt="velytics" /> </p>
 
