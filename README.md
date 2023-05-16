@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="Velytics#0829" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="7c7UjYENza" height="30" width="40" /></a>
+<a href="Velytics#3819" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="7c7UjYENza" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages & Technologies:</h3>
